@@ -9,10 +9,13 @@ import CitationSection from "./components/CitationSection.jsx";
 import MarketingSection from "./components/MarketingSection.jsx";
 import DemoSection from "./components/DemoSection.jsx";
 import Footer from "./components/Footer.jsx";
+import AudioPlayer from "./components/AudioPlayer.jsx";
 
 function App() {
+
     return (
         <>
+            <AudioPlayer />
             <Header />
             <RegisterSection />
             <ClientsSection />
