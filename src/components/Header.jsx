@@ -22,8 +22,7 @@ export default function Header() {
                     <button className="text-green-600 text-sm">Login</button>
                     <button
                         style={{ backgroundColor: '#4CAF4F' }}
-                        className="text-white font-light rounded-md px-4 py-2 text-sm"
-                    >
+                        className="text-white font-light rounded-md px-4 py-2 text-sm">
                         Sign Up
                     </button>
                 </div>

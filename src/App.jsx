@@ -12,7 +12,6 @@ import Footer from "./components/Footer.jsx";
 import AudioPlayer from "./components/AudioPlayer.jsx";
 
 function App() {
-
     return (
         <>
             <AudioPlayer />
